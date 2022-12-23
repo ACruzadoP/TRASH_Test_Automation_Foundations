@@ -7,3 +7,5 @@ I think this is a great course to have an Introduction to Automated testing - ho
 - The tests are written in something called Mocha. Would you like to learn how to use it? Then you better go somewhere else as this Instructor will not tell you anything about it... not even the installation process.
 
 - The UI tests are written in Mocha and they use Selenium and Chromedriver as well. As well as with Mocha, you're not told anything about how these two have to be used. 
+
+- Last but not least, you will have to watch plenty of videos telling you about how important Automation is but hey! If I went looking for Automation-related training, don't you think I knew this already? ¬¬
