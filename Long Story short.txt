@@ -1,0 +1,9 @@
+I think this is a great course to have an Introduction to Automated testing - however, to me it wouldn't be a good course for the following reasons:
+
+- You're introduced to something called the "Agile Testing Quadrants" - and nobody will ever learn something like that. I know there are quite a few types of tests but, this way of learning them is not effective at all. At least you are then introduced to the Test Pyramid, which IMO is a better way of learning the different type of automated tests. 
+
+- The instructor will show  you a fake app and will guide you through the code, line by line. When they show you the code already written, it's because they're not brave enough to write it down in front of you. Maybe it was not even writen by them in the 1st place...
+
+- The tests are written in something called Mocha. Would you like to learn how to use it? Then you better go somewhere else as this Instructor will not tell you anything about it... not even the installation process.
+
+- The UI tests are written in Mocha and they use Selenium and Chromedriver as well. As well as with Mocha, you're not told anything about how these two have to be used. 
